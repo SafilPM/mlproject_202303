@@ -1,0 +1,9 @@
+Agenga
+day1
+
+    - setup the github (repository)
+     a)new environement
+     b)setup.py
+     c)requirements.txt
+     
+     -Src folder and build the package
